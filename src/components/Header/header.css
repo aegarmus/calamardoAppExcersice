@@ -1,0 +1,5 @@
+.header {
+    background-color: var(--primary400);
+    display: flex;
+    justify-content: center;
+}
